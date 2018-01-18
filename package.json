@@ -1,0 +1,27 @@
+{
+  "name": "my-first-node-app",
+  "version": "1.0.0",
+  "description": "my first packagejson",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marciosmelo/my-first-node-app.git"
+  },
+  "keywords": [
+    "node",
+    "nodejs",
+    "json"
+  ],
+  "author": "@marciosmelo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marciosmelo/my-first-node-app/issues"
+  },
+  "homepage": "https://github.com/marciosmelo/my-first-node-app#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
