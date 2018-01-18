@@ -1,4 +1,4 @@
-# my-first-node-app
+# My First Node App
 My First (and very simple) Node App
 
 ## To Run:
